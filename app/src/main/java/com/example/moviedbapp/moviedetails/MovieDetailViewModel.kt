@@ -1,0 +1,3 @@
+package com.example.moviedbapp.moviedetails
+
+class MovieDetailViewModel

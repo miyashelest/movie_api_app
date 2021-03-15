@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieDBApp</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="movie_description">Description</string>
+    <string name="test">Note: We recommend that cards on mobile have 8dp margins. android:layout_margin will NOT work in default styles (eg. materialCardViewStyle) so either set this attr directly on a MaterialCardView in the layout or add it to a style that is applied in the layout with style="@style/....
+Note: Without an app:strokeColor, the card will not render a stroked border, regardless of the app:strokeWidth value.</string>
+</resources>
